@@ -74,7 +74,7 @@ GATI는 이러한 가족간의 소통 부재를 해결하기 위해 등장한 �
 
 ---
 
-![시스템아키텍처](/uploads/4680628659270911bc7e5c0cb0172908/시스템아키텍처.png)
+![image](https://user-images.githubusercontent.com/87896466/226288923-2e6c0b67-852f-4542-8787-90507e18f24b.png)
 
 
 ## :family: 프로젝트 파일 구조
@@ -176,7 +176,7 @@ src
 
 ---
 
-![역할분배](/uploads/748cfbd3f0a3c51b09de52fd470c0a53/김영웅-017.png)
+![image](https://user-images.githubusercontent.com/87896466/226289016-4e3a2d58-2731-4491-b977-48440cf50f04.png)
 
 
 
@@ -204,13 +204,13 @@ src
 ---
 
 ## 로그인
-![로그인](/uploads/b516ecc5e96ae333359ea53c6914bf43/로그인.gif)
+![image](https://user-images.githubusercontent.com/87896466/226289047-0ae85949-0b05-4699-82fd-d0ba740edcc8.png)
 
 ## 메인 피드
-![메인_피드](/uploads/07bb963f3113d43a0e39d98880768150/메인_피드.gif)
+![image](https://user-images.githubusercontent.com/87896466/226289066-7d30c845-3022-4abe-ae4a-11a3a2000e03.png)
 
 ## 가치 한장
-![가치_한_장](/uploads/14fbafc9cbc687075fe15ee1606cbc51/가치_한_장.gif)
+![image](https://user-images.githubusercontent.com/87896466/226289099-ae615d16-7c5a-4ba1-a77a-240f21b14cee.png)
 
 ## 가치 가자
-![가치_가자](/uploads/9c3f574d98490582582a28bb4ae74a02/가치_가자.gif)
+![image](https://user-images.githubusercontent.com/87896466/226289119-08e527c2-2b35-4352-8db2-94c7889b926f.png)
